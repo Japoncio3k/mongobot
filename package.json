@@ -4,7 +4,6 @@
     "description": "teste",
     "main": "bot.js",
     "author": "Gustavo Kamihara",
-    "start":"node index",
     "keyword": [
         "bot",
         "fishing",
@@ -16,8 +15,8 @@
         "url": "https://github.com/Japoncio3k/mongobot"
     },
     "engines": {
-        "node": ">= 10.0.0",
-        "npm": ">= 6.0.0"
+        "node": ">= 10.15.0",
+        "npm": ">= 6.4.1"
     },
     "dependencies": {
         "canvas": "^2.5.0",
